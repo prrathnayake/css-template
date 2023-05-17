@@ -31,7 +31,8 @@ a:not([class]) {
 }
 
 img,
-picture {
+picture,
+svg {
   max-width: 100%;
   display: block;
 }
